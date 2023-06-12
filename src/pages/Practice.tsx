@@ -19,7 +19,7 @@ export const Practice = () => {
                 <MediumBlueButton>
                     <H1>Blue Button</H1>
                 </MediumBlueButton>
-                <Tooltip />
+                <Tooltip position="right" />
             </HomeBackground>
         </div>
     )
